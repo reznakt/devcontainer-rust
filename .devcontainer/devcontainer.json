@@ -6,7 +6,10 @@
     "vscode": {
       "extensions": [
         "EditorConfig.EditorConfig",
-        "redhat.vscode-yaml"
+        "redhat.vscode-yaml",
+        "rust-lang.rust-analyzer",
+        "tamasfe.even-better-toml",
+        "SanaAjani.taskrunnercode"
       ]
     }
   },
@@ -26,6 +29,5 @@
       "target": "/home/user/.ssh",
       "type": "bind"
     }
-  ],
-  "postCreateCommand": "src/main.sh"
+  ]
 }
