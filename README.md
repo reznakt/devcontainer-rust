@@ -1,3 +1,3 @@
-# devcontainer-metatemplate
+# devcontainer-rust
 
-This repository provides a (meta)template for creating templates for setting up development environments using devcontainers.
+This repository provides a template for setting up a Rust development environment using devcontainers.
